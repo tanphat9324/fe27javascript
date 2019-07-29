@@ -3,8 +3,14 @@
   -- Them Nhan Vien
 */
 function themNguoiDung(){
+<<<<<<< HEAD
   console.log("them nguoi dung phat2");
 }
+=======
+  console.log('them nguoi dung');
+}
+
+>>>>>>> master
 var mangNhanVien = [];
 var validation=new Validation();
 
